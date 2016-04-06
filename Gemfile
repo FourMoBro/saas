@@ -5,6 +5,8 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.5.1'
 gem 'devise'
 gem 'milia'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 0.15'
 # Use SCSS for stylesheets
